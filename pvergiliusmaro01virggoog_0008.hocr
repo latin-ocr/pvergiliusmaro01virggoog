@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pvergiliusmaro01virggoog/pvergiliusmaro01virggoog_0008.png"; bbox 0 0 600 813; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 86 62 494 255">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 90 62 93 88">
+     <span class='ocr_line' id='line_1_1' title="bbox 90 62 93 88; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 90 62 93 88; x_wconf 86' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 86 127 494 230">
+     <span class='ocr_line' id='line_1_2' title="bbox 87 127 494 199; baseline 0 -16"><span class='ocrx_word' id='word_1_2' title='bbox 87 127 93 199; x_wconf 58' lang='grc' dir='ltr'><em>ἶ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 120 158 370 196; x_wconf 57' lang='lat' dir='ltr'>1¹·VERGILH&#39;S</span> <span class='ocrx_word' id='word_1_4' title='bbox 394 158 494 183; x_wconf 73' lang='lat' dir='ltr'>MARO</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 86 197 343 230; baseline 0.004 -27"><span class='ocrx_word' id='word_1_5' title='bbox 86 203 91 230; x_wconf 47' lang='grc' dir='ltr'>ί</span> <span class='ocrx_word' id='word_1_6' title='bbox 156 211 160 212; x_wconf 24' lang='lat'><em>⁷</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 292 197 300 203; x_wconf 79' lang='grc'><em>.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 338 200 343 204; x_wconf 90' lang='grc'>.</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 86 231 97 255">
+     <span class='ocr_line' id='line_1_4' title="bbox 86 231 97 255; baseline -0.091 0"><span class='ocrx_word' id='word_1_9' title='bbox 86 231 97 255; x_wconf 75' lang='grc' dir='ltr'>Ι,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 105 280 498 541">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 105 280 498 541">
+     <span class='ocr_line' id='line_1_5' title="bbox 105 280 498 541; baseline 0 272"><span class='ocrx_word' id='word_1_10' title='bbox 105 280 498 541; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 257 559 359 590">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 257 559 359 590">
+     <span class='ocr_line' id='line_1_6' title="bbox 257 559 359 590; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 257 559 359 590; x_wconf 45' lang='lat' dir='ltr'>migma</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
